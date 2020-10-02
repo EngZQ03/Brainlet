@@ -1,7 +1,7 @@
 import requests, os, time, configparser
 from termcolor import colored
 
-os.system("title" + " Brainlet BETA - maki")
+os.system("title" + " Brainlet 1.0 - maki")
 thisfolder = os.path.dirname(os.path.realpath(__file__))
 cfgfile = os.path.join(thisfolder, 'Config.cfg')
 #Change title and config file stuff
