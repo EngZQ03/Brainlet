@@ -61,7 +61,7 @@ headers = {
 
 os.system('cls')
 
-while null == 'null':
+while true == 'true':
 	if noc >= 6:
 		noc = 0 
 	x = requests.post(url, data = myobj, cookies = cookies, headers=headers)
