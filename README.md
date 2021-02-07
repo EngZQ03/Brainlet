@@ -1,6 +1,6 @@
 # Brainlet
- Padlet spammer (Made with spaghetti)
-# How to use 
+ Simple python Padlet spammer
+# Usage
  1. Make a copy of configEXAMPLE.cfg with the name config.cfg and edit it accordingly
  2. Go to the padlet wall you want to spam.
  3. Open inspect element and go to network.
